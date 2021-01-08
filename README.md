@@ -1,2 +1,2 @@
-# me
-WhoAmI? and how to navigate my profile 👍
+# WhoAmI? and how to navigate my profile 👍
+-> Coming soon!
