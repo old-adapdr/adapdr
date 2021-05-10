@@ -1,4 +1,4 @@
-# WhoAmI & how to navigate my profile
+# WhoAmI & How to navigate my profile
 Welcome to my GitHub Profile 🎉
 
 I'm a (Python)Developer & OpsGuy 👋 with a passion for creating simple, efficient and scalable solutions. In practise this means I ❤️ testing and developing in new and exciting technologies. After all, if there is a more efficient or cleaner way of doing something... why not 🤔?
@@ -26,7 +26,8 @@ For things connected to work and/or employment related please contact me on Link
 The main overview of my currently active GitHub Projects: [Project Board](https://github.com/alexpdr?tab=projects)
 
 ## ✍️ WriteUps ✍️
-The amazing
+A way for me to share all of the awesome technology I get to experience.
+- 🚨 Migration to new pipeline and CMS in progress 🚨
 - Webside: [alexpdr.com](https://www.alexpdr.com/)
 - Project: [board](https://github.com/users/alexpdr/projects/5)
 - Repository: [WriteUps](https://github.com/alexpdr/writeups)
