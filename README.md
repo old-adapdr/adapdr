@@ -24,6 +24,7 @@ For things connected to work and/or employment related please contact me on Link
 
 # Projects
 The main overview of my currently active GitHub Projects: [Project Board](https://github.com/alexpdr?tab=projects)
+Gists can be found over on [GitHub gists](https://gist.github.com/alexpdr)
 
 ## ✍️ WriteUps ✍️
 A way for me to share all of the awesome technology I get to experience.
@@ -47,4 +48,3 @@ A collection board to track my various templates
 A collection repository of the modern tools and resources that I use
 - Repository: [Tools](https://github.com/alexpdr/tools)
 - Repository: Resources TBA (Pending Notion API)
-
