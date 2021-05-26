@@ -22,10 +22,10 @@ For work/employment related please contact me on LinkedIn or via the contact add
 Alternatively you can have a look at my python-inspired [CV](https://github.com/alexpdr/cv)
 
 
-
 # Projects
-The main overview of my currently active GitHub Projects: [Project Board](https://github.com/alexpdr?tab=projects)
-Gists can be found over on [GitHub gists](https://gist.github.com/alexpdr)
+- The main overview of my currently active GitHub Projects: [Project Board](https://github.com/alexpdr?tab=projects)
+- Gists can be found over on [GitHub gists](https://gist.github.com/alexpdr)
+
 
 ## ✍️ WriteUps ✍️
 A way for me to share all of the awesome technology I get to experience.
