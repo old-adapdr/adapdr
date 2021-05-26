@@ -47,4 +47,4 @@ A collection board to track my various templates
 ## 🛠️ Tools & Resources 🛠️
 A collection repository of the modern tools and resources that I use
 - Repository: [Tools](https://github.com/alexpdr/tools)
-- Repository: Resources TBA (Pending Notion API)
+- Repository: Resources TBA ~~(Pending Notion API)~~ beta is out, will start once time is available =)
