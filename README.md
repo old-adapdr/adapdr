@@ -18,7 +18,8 @@ This ⬆️ is due to ongoing upgrades and migration from self-hosted FOSS alter
 
 
 ## Work Related
-For things connected to work and/or employment related please contact me on LinkedIn or via the contact address on my profile's main page!
+For work/employment related please contact me on LinkedIn or via the contact address on my profile's [main page!](https://github.com/alexpdr) 
+Alternatively you can have a look at my python-inspired [CV](https://github.com/alexpdr/cv)
 
 
 
@@ -28,7 +29,6 @@ Gists can be found over on [GitHub gists](https://gist.github.com/alexpdr)
 
 ## ✍️ WriteUps ✍️
 A way for me to share all of the awesome technology I get to experience.
-- 🚨 Migration to new pipeline and CMS in progress 🚨
 - Webside: [alexpdr.com](https://www.alexpdr.com/)
 - Project: [board](https://github.com/users/alexpdr/projects/5)
 - Repository: [WriteUps](https://github.com/alexpdr/writeups)
