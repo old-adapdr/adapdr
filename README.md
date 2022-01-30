@@ -16,6 +16,10 @@ For everything work & business related please use the listed contact email on my
         "url": "https://www.alexpdr.com",
         "comment": "Sporadically active, design & layout may change when I feel like it."
     },
+    "cloud": {
+        "url": "https://cloud.alexpdr.com",
+        "comment": "Various cloud services I host & manage."
+    },
     "apps": {
         "url": "https://apps.alexpdr.com",
         "comment": "Currently offline. Design & layout may change when I feel like it."
