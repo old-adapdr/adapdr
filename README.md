@@ -6,8 +6,8 @@ I'm a Technical Architect with a passion for creating simple, efficient and scal
 For everything work & business related please use the listed contact email on my GitHub profile. 
 ```json
 {
-    "status": "Employed",
-    "open_for_work": False,
+    "status": "Searching",
+    "open_for_work": True,
     "contact": {
         "instructions": "See GitHub profile contact email!",
         "url": "https://github.com/alexpdr"
