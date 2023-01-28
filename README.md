@@ -14,18 +14,6 @@ For everything work & business related please use the listed contact email on my
     "linkedin": {
         "url": "https://www.linkedin.com/in/adapdr/",
     },
-    "website": {
-        "url": "https://www.adapdr.com",
-        "comment": "Sporadically active, design & layout may change when I feel like it."
-    },
-    "cloud": {
-        "url": "https://cloud.alexpdr.com",
-        "comment": "Various cloud services I host & manage."
-    },
-    "apps": {
-        "url": "https://apps.alexpdr.com",
-        "comment": "Currently offline. Design & layout may change when I feel like it."
-    },
     "curriculum_vitae": {
         "name": "Curriculum Vitae",
         "url": "https://github.com/alexpdr/cv",
