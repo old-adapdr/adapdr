@@ -6,7 +6,7 @@ I'm a Technical Architect with a passion for creating simple, efficient and scal
 For everything work & business related please use the listed contact email on my GitHub profile. 
 ```json
 {
-    "status": "Searching",
+    "status": "Occupied",
     "open_for_work": False,
     "contact": {
         "instructions": "LinkedIn request || GitHub Contact Email",
