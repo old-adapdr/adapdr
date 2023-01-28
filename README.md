@@ -1,4 +1,4 @@
-# `./WhoAmI` 👨🏼‍
+# WhoAmI?
 I'm a Technical Architect with a passion for creating simple, efficient and scalable solutions.
 
 
