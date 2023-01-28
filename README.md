@@ -1,4 +1,4 @@
-# `./WhoAmI` 👨🏼‍💻
+# `./WhoAmI` 👨🏼‍
 I'm a Technical Architect with a passion for creating simple, efficient and scalable solutions.
 
 
@@ -7,13 +7,15 @@ For everything work & business related please use the listed contact email on my
 ```json
 {
     "status": "Searching",
-    "open_for_work": True,
+    "open_for_work": False,
     "contact": {
-        "instructions": "See GitHub profile contact email!",
-        "url": "https://github.com/alexpdr"
+        "instructions": "LinkedIn request || GitHub Contact Email",
+    },
+    "linkedin": {
+        "url": "https://www.linkedin.com/in/adapdr/",
     },
     "website": {
-        "url": "https://www.alexpdr.com",
+        "url": "https://www.adapdr.com",
         "comment": "Sporadically active, design & layout may change when I feel like it."
     },
     "cloud": {
