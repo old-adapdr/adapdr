@@ -9,7 +9,7 @@ For everything work & business related please use the listed contact email on my
     "status": "Occupied",
     "open_for_work": True,
     "contact": {
-        "instructions": "LinkedIn request || GitHub Contact Email",
+        "instructions": "LinkedIn request",
     },
     "linkedin": {
         "url": "https://www.linkedin.com/in/adapdr/",
