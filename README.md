@@ -7,7 +7,7 @@ For everything work & business related please use the listed contact email on my
 ```json
 {
     "status": "Occupied",
-    "open_for_work": False,
+    "open_for_work": True,
     "contact": {
         "instructions": "LinkedIn request || GitHub Contact Email",
     },
@@ -18,7 +18,7 @@ For everything work & business related please use the listed contact email on my
         "name": "Curriculum Vitae",
         "url": "https://github.com/alexpdr/cv",
         "version": "latest",
-        "release": "2021"
+        "release": "2023"
     }
 }
 ```
