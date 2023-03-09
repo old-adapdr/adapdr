@@ -16,7 +16,7 @@ For everything work & business related please use the listed contact email on my
     },
     "curriculum_vitae": {
         "name": "Curriculum Vitae",
-        "url": "https://github.com/alexpdr/cv",
+        "url": "https://github.com/adapdr/cv",
         "version": "latest",
         "release": "2023"
     }
