@@ -6,7 +6,7 @@ I'm a Technical Architect with a passion for creating simple, efficient and scal
 For everything work & business related please use the listed contact email on my GitHub profile. 
 ```json
 {
-    "status": "Occupied",
+    "status": "Looking For Work",
     "open_for_work": True,
     "contact": {
         "instructions": "LinkedIn request",
@@ -24,8 +24,7 @@ For everything work & business related please use the listed contact email on my
 ```
 
 # Projects 🚀
-Currently not working on any specific projects due to time having to be invested elsewhere,
-hopefully this will improve as the year progresses!
+Currently not working on any open projects due to time having to be invested elsewhere.
 
 # Links 🔗
 
